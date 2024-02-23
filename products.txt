@@ -1,0 +1,1 @@
+{'id': 1, 'name': 'Laptop', 'code': '123456', 'description': 'Macbook M1 Air ', 'price': '39999'}
